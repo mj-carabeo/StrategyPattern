@@ -53,4 +53,4 @@ public class Character {
     }
 }
 
-UML Diagram: 
+UML Diagram: https://lucid.app/lucidchart/70087166-c1ba-4a7d-a21c-438e841fb41d/edit?beaconFlowId=BB1E1A378D2A26C5&invitationId=inv_06a34ae6-678d-4ffa-9720-9efcdf5c4aed&page=0_0#
